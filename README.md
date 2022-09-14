@@ -19,16 +19,6 @@ As a software engineer and a previous tax professional, I enjoy my obsession to 
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
